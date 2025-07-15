@@ -15,11 +15,15 @@ Users can register, book appointments, view all appointments, and manage records
 
 # 🛠️ Technologies Used
 1.Java 17+
-2.Hibernate (JPA)	
+
+2.Hibernate (JPA)
+
 3.MySQL/PostgreSQL	
-4.Maven	 
+
+4.Maven
+
 5.Console I/O
 
 # Structure
 
-![Appointment Screen]()
+![Appointment Screen](https://github.com/sayyad12345/Appointmentregistration/blob/main/Structure%20(2).png)
